@@ -9,10 +9,6 @@
 
 https://github.com/victorhwang520/Computacao-Grafica-ACs/tree/f692d2d69e69d9164ce4375f39cd5b36e8d7b066/AP2
 
-## Complementos
-
-https://github.com/victorhwang520/Computacao-Grafica-ACs/tree/8c600ae35c3a93f79044a9b3afdf14fffdac546f/AP1/arquivos
-
 <br>
 
 ![image alt](https://github.com/victorhwang520/Computacao-Grafica-ACs/blob/fec331f4b6a84898587ed264ff43c456223612bf/AP1/Victor.png)
