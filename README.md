@@ -1,7 +1,7 @@
 ## Arquivo drive AP2: https://drive.google.com/drive/folders/1xI-1JytvDUeKj2gnNvSZnFy_PkEMiZd_?usp=sharing
 
 
-## Computação-Gráfica-AP1
+## Computação-Gráfica-AP2
 
 ## Arquivo Blender
 
